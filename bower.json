@@ -1,0 +1,22 @@
+{
+  "name": "drago",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "YOUR NAME <dragomir.tachev@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~3.0.0",
+    "d3": "~4.1.0"
+  }
+}
